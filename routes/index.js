@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const apiRoutes = require('./api');
 
+// create initial route /api => directs to folder api
 router.use('/api', apiRoutes);
 
 router.use((req, res) => {
