@@ -38,9 +38,9 @@ To install this application please fork this repo. Then, run in terminal:
 
 For this application to run successfully without errors you will need to create a .env folder with the following code:
 
-DB_NAME='ecommerce_db'
-DB_PASSWORD='your SQL password'
-DB_USER='your SQL user'
+* DB_NAME='ecommerce_db'
+* DB_PASSWORD='your SQL password'
+* DB_USER='your SQL user'
 
 To use the existing data in the seed folder please run in terminal //~ npm run seed
 
@@ -58,11 +58,11 @@ Please reach out to me if you have any further questions via:
 
 Email: shanhun.codes@gmail.com
 
-<a href='https://github.com/RaszeroT/E-Commerce-Back-End'>Note Taker</a>
+<a href='https://github.com/RaszeroT/E-Commerce-Back-End'>E-Commerce Back End App</a>
 
 ## What I learned:
 
-Creating this application I learned to successfully create database dataTypes using sequelize along with re-solidifying my knowledge of creating functional request routes to produce a database structure.
+Creating this application I learned to successfully create database dataTypes using sequelize along with re-solidifying my knowledge of creating functional request routes to produce a clean database structure.
 
 ## Dependencies 
 
@@ -82,7 +82,7 @@ sequelize@5.12.7
 
 ## Video Tutorial:
 
-<a href=''>Video Tutorial</a>
+<a href='https://drive.google.com/file/d/183UaZ_c_OOeEIfHtN_Gm2FA3nkRUSVfs/view'>Video Tutorial</a>
 
 ## License
 
